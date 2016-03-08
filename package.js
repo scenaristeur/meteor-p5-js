@@ -1,4 +1,5 @@
 Package.describe({
+  name: "bgrayburn:p5js"
   summary: " p5.js v0.4.7 ",
   version: "1.0.0",
   git: " https://github.com/bgrayburn/meteor-p5-js "
